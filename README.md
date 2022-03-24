@@ -35,3 +35,23 @@
 -   #### Imagery
 
      -   Imagery is crucial to show the interior of the shop and the staff portraits all images are from [www.pexels.com](https://www.pexels.com/)
+
+## Wireframes
+
+- Home Page Wireframe - [view](https://i.imgur.com/W0RLxgA.png)
+
+- Contact Page Wireframe - [view](https://i.imgur.com/GUh6KQx.png)
+
+- Meet The Team Page Wireframe - [view](https://i.imgur.com/CSO6rDT.png)
+
+- Mobile Home Page Wireframe - [view](https://i.imgur.com/yhaQjFW.png)
+
+- Mobile Contact Page Wireframe - [view](https://i.imgur.com/8l61xOI.png)
+
+- Mobile Meet The Team Page Wireframe - [view](https://i.imgur.com/HGTtCxQ.png)
+
+- Tablet Home Page Wireframe - [view](https://i.imgur.com/tLK042u.png)
+
+- Tablet Contact Page Wireframe - [view](https://i.imgur.com/1pcc6le.png)
+
+- Tablet Meet The Team Page Wireframe - [view](https://i.imgur.com/cd99Jq0.png)
