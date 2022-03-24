@@ -55,3 +55,11 @@
 - Tablet Contact Page Wireframe - [view](https://i.imgur.com/1pcc6le.png)
 
 - Tablet Meet The Team Page Wireframe - [view](https://i.imgur.com/cd99Jq0.png)
+
+## Features
+
+-   Responsive on all devices.
+
+-   Interactive elements.
+
+-   Intreactive menu when viewed on a mobile and tablet.
