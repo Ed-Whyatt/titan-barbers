@@ -21,4 +21,17 @@
     1. As a Frequent Customer, I want to check if any staff have left.
     2. As a Frequent Customer, I want to easily see if there have been any changes to the prices.
 
+### Design
 
+-  ### Colour Scheme
+
+      - 
+
+-   #### Typography
+
+     -   The main fonts on this site are Lato and Poppins with a fall back font of sans-serif.
+     -	 The font of the shop name in the header of this site is Pacifio with a fall back of sans-serif.
+
+-   #### Imagery
+
+     -   Imagery is crucial to show the interior of the shop and the staff portraits all images are from [www.pexels.com](https://www.pexels.com/)
