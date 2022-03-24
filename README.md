@@ -11,4 +11,9 @@
     2. As a First Time Customer, I want to be navigated easily throughout the website to find content
     3. As a First Time Customer, I want to familiarize myself with the staff and see information about their skills and history.
 
+-   #### Returning Customer Goals
+
+    1. As a Returning Customer, I want to easily navigate back to book another appointment.
+    2. As a Returning Customer, I want to easily navigate to the address.
+
 
