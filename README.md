@@ -16,4 +16,9 @@
     1. As a Returning Customer, I want to easily navigate back to book another appointment.
     2. As a Returning Customer, I want to easily navigate to the address.
 
+-   #### Frequent Customer Goals
+
+    1. As a Frequent Customer, I want to check if any staff have left.
+    2. As a Frequent Customer, I want to easily see if there have been any changes to the prices.
+
 
