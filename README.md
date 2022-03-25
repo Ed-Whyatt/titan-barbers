@@ -30,7 +30,7 @@
 -   #### Typography
 
      -   The main fonts on this site are Lato and Poppins with a fall back font of sans-serif.
-     -	 The font of the shop name in the header of this site is Pacifio with a fall back of sans-serif.
+     -	 The font of the shop name in the header of this site is Pacifico with a fall back of cursive.
 
 -   #### Imagery
 
