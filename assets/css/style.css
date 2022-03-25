@@ -1,1 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,700;1,900&family=Pacifico&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+
+/* .....................................................heading section */
+
+header{
+    margin: 0;
+}
+
+.titan-barbers-heading{
+    background-color: #3F3937;
+    height: 200px;
+}
+
+.titan-barbers-heading a {
+    text-decoration: none;
+
+}
+
+.titan-barbers-title h1 {
+    font-family: 'Pacifico', cursive;
+    font-weight: 200;
+    font-size: 60px;
+    color: #c1b4a8;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
