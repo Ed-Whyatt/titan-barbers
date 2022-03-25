@@ -28,3 +28,11 @@ header{
     margin-left: 30px;
 }
 
+/* ......................................Nav */
+
+.nav-link {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #c1b4a8;
+}
