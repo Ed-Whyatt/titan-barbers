@@ -9,8 +9,7 @@ header{
 }
 
 .titan-barbers-heading{
-    background-color: #3F3937;
-    height: 200px;
+   background-color: #3f3937;
 }
 
 .titan-barbers-heading a {
@@ -21,7 +20,7 @@ header{
 .titan-barbers-title h1 {
     font-family: 'Pacifico', cursive;
     font-weight: 200;
-    font-size: 60px;
+    font-size: 40px;
     color: #c1b4a8;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -30,9 +29,25 @@ header{
 
 /* ......................................Nav */
 
-.nav-link {
+.navbar-dark .navbar-nav .nav-link {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    font-size: 20px;
     color: #c1b4a8;
+    font-size: 20px;
 }
+
+
+.navbar-dark .navbar-nav .active>.nav-link.nav-link {  
+    color: #7D899F;
+    font-weight: 600;  
+}
+
+
+.navbar-toggler {
+    border: 3px solid #c1b4a8;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: #c1b4a8;
+}
+    
