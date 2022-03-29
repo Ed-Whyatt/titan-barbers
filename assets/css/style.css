@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,700;1,900&family=Pacifico&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+/* ....................................................general paddings margins and text.... */
+h1,h2,h3,h4 {
+    margin: 0;
+}
+
+.uppercase{
+    text-transform:  uppercase;
+
+}
 
 
 /* .....................................................heading section */
@@ -10,6 +19,7 @@ header{
 
 .titan-barbers-heading{
    background-color: #3f3937;
+   min-height: 160px;
 }
 
 .titan-barbers-heading a {
@@ -34,6 +44,7 @@ header{
     font-weight: 400;
     color: #c1b4a8;
     font-size: 20px;
+    
 }
 
 
@@ -50,4 +61,21 @@ header{
 .navbar-dark .navbar-toggler {
     border-color: #c1b4a8;
 }
-    
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(125,137,159,.70);
+}
+
+ /* ....................................................  footer.......... */
+
+ footer {
+     background-color: #3f3937;
+     min-height: 100px;
+ }
+
+.barbers-footer{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #c1b4a8;
+    font-size: 15px;
+}         
