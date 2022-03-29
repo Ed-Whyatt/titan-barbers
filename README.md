@@ -38,23 +38,23 @@
 
 ## Wireframes
 
-- Home Page Wireframe - [view](https://i.imgur.com/W0RLxgA.png)
+- Home Page Wireframe - [view](documentation/wireframes/home.png)
 
-- Contact Page Wireframe - [view](https://i.imgur.com/GUh6KQx.png)
+- Contact Page Wireframe - [view](documentation/wireframes/contact.png)
 
-- Meet The Team Page Wireframe - [view](https://i.imgur.com/CSO6rDT.png)
+- Meet The Team Page Wireframe - [view](documentation/wireframes/meet-team.png)
 
-- Mobile Home Page Wireframe - [view](https://i.imgur.com/yhaQjFW.png)
+- Mobile Home Page Wireframe - [view](documentation/wireframes/mobile-home.png)
 
-- Mobile Contact Page Wireframe - [view](https://i.imgur.com/8l61xOI.png)
+- Mobile Contact Page Wireframe - [view](documentation/wireframes/mobile-contact.png)
 
-- Mobile Meet The Team Page Wireframe - [view](https://i.imgur.com/HGTtCxQ.png)
+- Mobile Meet The Team Page Wireframe - [view](documentation/wireframes/mobile-meet-team.png)
 
-- Tablet Home Page Wireframe - [view](https://i.imgur.com/tLK042u.png)
+- Tablet Home Page Wireframe - [view](documentation/wireframes/tablet-home.png)
 
-- Tablet Contact Page Wireframe - [view](https://i.imgur.com/1pcc6le.png)
+- Tablet Contact Page Wireframe - [view](documentation/wireframes/tablet-contact.png)
 
-- Tablet Meet The Team Page Wireframe - [view](https://i.imgur.com/cd99Jq0.png)
+- Tablet Meet The Team Page Wireframe - [view](documentation/wireframes/tablet-meet-team.png)
 
 ## Features
 
