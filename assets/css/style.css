@@ -85,6 +85,12 @@ header{
     list-style: none;
 }
 
+.barbers-address li {
+    font-weight: 400;
+    color: #7D899F;
+    
+}
+
 .barbers-social li {
     font-weight: 400;
     color: #7D899F;
