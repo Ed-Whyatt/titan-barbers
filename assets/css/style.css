@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,700;1,900&family=Pacifico&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-/* ....................................................general paddings margins and text.... */
+/* general paddings margins and text */
 h1,h2,h3,h4 {
     margin: 0;
 }
@@ -11,7 +11,7 @@ h1,h2,h3,h4 {
 }
 
 
-/* .....................................................heading section */
+/* heading section */
 
 header{
     margin: 0;
@@ -37,7 +37,7 @@ header{
     margin-left: 30px;
 }
 
-/* ......................................Nav */
+/* Nav */
 
 .navbar-dark .navbar-nav .nav-link {
     font-family: 'Lato', sans-serif;
@@ -66,16 +66,33 @@ header{
     color: rgba(125,137,159,.70);
 }
 
- /* ....................................................  footer.......... */
+ /* footer */
 
  footer {
      background-color: #3f3937;
      min-height: 100px;
  }
 
-.barbers-footer{
+.barbers-footer h4{
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #c1b4a8;
     font-size: 15px;
-}         
+    margin-left: 40px;
+}
+
+.barbers-address {
+    list-style: none;
+}
+
+.barbers-social li {
+    font-weight: 400;
+    color: #7D899F;
+    font-size: 80px;
+}
+
+.barbers-social li a{
+    font-weight: 400;
+    color: #7D899F;
+    font-size: 80px;
+}
