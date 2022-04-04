@@ -118,6 +118,48 @@ header {
     color: #3f3937;
   }
 
+/* Opening and pricing Section */
+
+.opening-prices {
+    background-color: #8C776A;
+    min-height: 400px;
+}
+
+.table-dark {
+    background-color: #3F3937;
+    color: #c1b4a8;
+    border-radius: 10px;
+}
+
+.table-dark td, .table-dark th, .table-dark thead th {
+    border-color: #8C776A;
+}
+
+.opening {
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.opening h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #3F3937;
+    font-size: 40px;
+}
+
+.prices {
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.prices h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #3F3937;
+    font-size: 40px;
+}
+
+
 
 /* footer */
 
@@ -146,11 +188,11 @@ footer {
 .barbers-social li {
     font-weight: 400;
     color: #7D899F;
-    font-size: 80px;
+    font-size: 60px;
 }
 
 .barbers-social li a {
     font-weight: 400;
     color: #7D899F;
-    font-size: 80px;
+    font-size: 60px;
 }
