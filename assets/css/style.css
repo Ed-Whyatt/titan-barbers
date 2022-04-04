@@ -74,7 +74,7 @@ header {
     margin-left: 0;
 }
 
-.book-now-image {
+.book-now-image { 
     height: 100vh;
 
     background: url('../images/shop-floor.jpg');
@@ -127,6 +127,7 @@ header {
 
 .table-dark {
     background-color: #3F3937;
+    font-family: 'Poppins', sans-serif;
     color: #c1b4a8;
     border-radius: 10px;
 }
@@ -159,6 +160,38 @@ header {
     font-size: 40px;
 }
 
+/* About Us */
+
+.about-image { 
+    height: 100vh;
+
+    background: url('../images/about-us.jpg');
+    
+    background-color: #8C776A;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+    .about-us {
+        background-color: rgba(125, 137, 159, 0.7);
+        color: #2b2422;
+    }
+
+    .about-us h2{
+        font-family: 'Lato', sans-serif;
+    }
+
+    .about-us p{
+        font-family: 'Poppins', sans-serif;
+    }
 
 
 /* footer */
