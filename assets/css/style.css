@@ -125,6 +125,10 @@ header {
     min-height: 400px;
 }
 
+.margin-left-row {
+    margin-left: -90px;
+}
+
 .table-dark {
     background-color: #3F3937;
     font-family: 'Poppins', sans-serif;
@@ -181,16 +185,20 @@ header {
     }
 
     .about-us {
-        background-color: rgba(125, 137, 159, 0.7);
+        background-color: rgba(125, 137, 159, 0.6);
         color: #2b2422;
     }
 
     .about-us h2{
         font-family: 'Lato', sans-serif;
+        font-size: 25px;
+        font-weight: 400;
     }
 
     .about-us p{
         font-family: 'Poppins', sans-serif;
+        font-size: 20px;
+        font-weight: 400;
     }
 
 
