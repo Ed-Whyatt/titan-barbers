@@ -76,8 +76,10 @@ header {
 
 .book-now-image {
     height: 100vh;
+
+    background: url('../images/shop-floor.jpg');
     
-    background-color: #ffffff;
+    background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: bottom right;
     background-attachment: fixed;
@@ -92,6 +94,29 @@ header {
 
     position: relative;
 }
+
+/* button https://www.w3schools.com/howto/howto_css_button_on_image.asp */
+
+.book-now .btn {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #3F3937;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    color: #c1b4a8;
+    font-size: 20px;
+    padding: 24px 40px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  .book-now .btn:hover {
+    background-color: #7D899F;
+    color: #3f3937;
+  }
 
 
 /* footer */
