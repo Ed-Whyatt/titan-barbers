@@ -295,6 +295,31 @@ header {
     color: #3f3937;
 }
 
+/* Map Section */
+
+.contact-map {
+    width: 100%;
+    min-height: 400px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    background-color: #8C776A;
+
+    bottom: auto;
+    right: auto;
+}
+
+
+.contact-map iframe {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.contact-map-sm iframe {
+    margin-left: 0%;
+}
+
 /* footer */
 
 footer {
