@@ -63,58 +63,83 @@
 
   </header>
 
-<!-- Contact Page -->
+  <!-- Contact Page -->
 
   <section class="container-fluid contact-page">
     <div class="row">
       <div class="col-12 contact-heading text-center">
-        <h2>Contact us we would love to hear from you!</h2>
+        <h2 class="uppercase">Contact us we would love to hear from you!</h2>
       </div>
+    </div>
+
+    <!-- Contact Details -->
+
+    <div class="row">
+
+      <div class="col-md-4 col-lg-6 call-us text-center">
+        
+        <h3>Call us to book an apointment</h3>
+        <h3>01285 555 555</h3>
+        
       </div>
 
- <!-- Contact Details -->
-
-      <div class="row">
-
-        <div class="col-md-4 col-lg-6 call-us text-center">
-          <h3>Call us to book an apointment</h3>
-          <h3>01285 555 555</h3>
-          </div>
-         
-        <div class="col-md-8 col-lg-6 d-none d-sm-block contact-address">
-          <h3 class="uppercase">Address</h3>
-          <ul class="contact-address-text">
-            <li>Titan Barbers Shop</li>
-            <li>36 Albion Street</li>
-            <li>Cheltenham</li>
-            <li>GL52 2RQ</li>
-          </ul>
-          </div>
-          </div>
-
- <!-- Map And Form -->
-
-          <div class="row">
-
-            
-
-          <div class="col d-none d-sm-block contact-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2461.8044321711573!2d-2.0740360839665613!3d51.90103298966626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48711b9693a359bf%3A0xcf905b65f480f5c1!2s36%20Albion%20St%2C%20Cheltenham%20GL52%202RQ!5e0!3m2!1sen!2suk!4v1649166568757!5m2!1sen!2suk" width="450" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="A Google Map To The Barbers Shop"></iframe>
-          
-          </div>
-
-          <div class="col  d-block d-sm-none contact-map-sm">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2461.8044321711573!2d-2.0740360839665613!3d51.90103298966626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48711b9693a359bf%3A0xcf905b65f480f5c1!2s36%20Albion%20St%2C%20Cheltenham%20GL52%202RQ!5e0!3m2!1sen!2suk!4v1649166568757!5m2!1sen!2suk" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="A Google Map To The Barbers Shop"></iframe>
-          
-          </div>
-
+      <div class="col-md-8 col-lg-6 d-none d-sm-block contact-address">
         
-
-          
-         
-          </div>
+        <h3>Address</h3>
+        <ul class="contact-address-text">
+          <li>Titan Barbers Shop</li>
+          <li>36 Albion Street</li>
+          <li>Cheltenham</li>
+          <li>GL52 2RQ</li>
+        </ul>
         
+      </div>
+    </div>
 
+    <!-- Map And Form -->
+    <div class="row">
+
+      <div class="col-md-6 contact-form text-center">
+
+        <form method="post" action="#">
+          <h2>Got a query? Leave your details below and we will get back to you.</h2>
+          
+          <label for="fname">First Name:</label>
+          <input id="fname" type="text" name="first_name" placeholder="First Name" required>
+          <br>
+          <label for="lname">Last Name:</label>
+          <input id="lname" type="text" name="last_name" placeholder="Last Name" required>
+          <br>
+          <label for="email">Email Address:</label>
+          <input id="email" type="email" name="email_address" placeholder="Email Address" required>
+          <br>
+          <label for="general">General</label>
+          <input class="radio-btn" id="general" type="radio" name="enquiry_type" value="general" required>
+          <label for="booking">Booking</label>
+          <input class="radio-btn" id="booking" type="radio" name="enquiry_type" value="booking">
+          <label for="both">Both</label>
+          <input class="radio-btn" id="both" type="radio" name="enquiry_type" value="both">
+          <br>
+          <textarea name="your message" id="Your enquiry" cols="35" rows="8" placeholder="Your Message"></textarea>
+          <br>
+          <input type="submit" value="Send">
+          <input type="reset" value="Reset Form">
+      </form>
+     </div>
+      
+        <div class="col-md-6 d-none d-sm-block contact-map">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2461.8044321711573!2d-2.0740360839665613!3d51.90103298966626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48711b9693a359bf%3A0xcf905b65f480f5c1!2s36%20Albion%20St%2C%20Cheltenham%20GL52%202RQ!5e0!3m2!1sen!2suk!4v1649166568757!5m2!1sen!2suk"
+            width="450" height="350" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade" title="A Google Map To The Barbers Shop"></iframe>
+        </div>
+        <div class="col d-block d-sm-none contact-map-sm">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2461.8044321711573!2d-2.0740360839665613!3d51.90103298966626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48711b9693a359bf%3A0xcf905b65f480f5c1!2s36%20Albion%20St%2C%20Cheltenham%20GL52%202RQ!5e0!3m2!1sen!2suk!4v1649166568757!5m2!1sen!2suk"
+            width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade" title="A Google Map To The Barbers Shop"></iframe>
+        </div>
+    </div>
   </section>
 
   <!--footer -->
