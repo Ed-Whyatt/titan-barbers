@@ -396,15 +396,16 @@ form label #fname {
 }
 
 .the-team-center {
-    background-color: #7D899F;
+    background-color: #3f3937;
     height: 320px;
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
     border-radius: 10px;
 }
 
 
-.team-image {
+.image-of-james {
+    background: url('../images/image-of-james.jpg');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -412,19 +413,27 @@ form label #fname {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    display: flex;
     align-items: center;
-    justify-content: center;
-
     width: 50%;
     height: 320px;
-    padding: 10px;
-    border-style: solid;
-    border-color: #7D899F;
-    border-width: 1px;
     border-radius: 10px;
-    
+    border: 5px solid #3f3937;
+    float: left;
+}
 
+.image-text {
+    width: 50%;
+    height: 320px;
+    border-radius: 10px;
+    border: 5px solid #3f3937;
+    float: right;
+}
+
+.image-text p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #7D899F;
 }
 
 
@@ -463,4 +472,18 @@ footer {
     font-weight: 400;
     color: #7D899F;
     font-size: 60px;
+}
+
+/* Media Queries */
+
+@media(max-width: 1400px) {
+    .image-text p {
+        font-size: 14px;   
+    }
+}
+
+@media(max-width: 540px) {
+    .image-text p {
+        font-size: 10px;   
+    }
 }
