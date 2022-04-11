@@ -556,6 +556,9 @@ footer {
 }
 
 .send-message-text p{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
     color: #2b2422;
 }
 
