@@ -66,14 +66,14 @@ header {
 
 /*  Book Now Section */
 
-.image-container{
+.image-container {
     padding-right: 0;
     padding-left: 0;
     margin-right: 0;
     margin-left: 0;
 }
 
-.book-now-image { 
+.book-now-image {
     height: 100vh;
     background: url('../images/shop-floor.jpg');
     background-color: #8C776A;
@@ -106,12 +106,12 @@ header {
     border: none;
     cursor: pointer;
     border-radius: 10px;
-  }
-  
+}
+
 .book-now .btn:hover {
     background-color: #7D899F;
     color: #3f3937;
-  }
+}
 
 /* Opening and pricing Section */
 
@@ -127,7 +127,9 @@ header {
     border-radius: 10px;
 }
 
-.table-dark td, .table-dark th, .table-dark thead th {
+.table-dark td,
+.table-dark th,
+.table-dark thead th {
     border-color: #8C776A;
 }
 
@@ -157,7 +159,7 @@ header {
 
 /* About Us */
 
-.about-image { 
+.about-image {
     height: 100vh;
     background: url('../images/about-us.jpg');
     background-color: #8C776A;
@@ -170,27 +172,26 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    }
+}
 
-    .about-us {
-        background-color: rgba(125, 137, 159, 0.6);
-        color: #0f0e0e;
-    }
+.about-us {
+    background-color: rgba(125, 137, 159, 0.6);
+    color: #0f0e0e;
+}
 
-    .about-us h2{
-        font-family: 'Lato', sans-serif;
-        font-size: 25px;
-        font-weight: 400;
-    }
+.about-us h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+}
 
-    .about-us p{
-        font-family: 'Poppins', sans-serif;
-        font-size: 20px;
-        font-weight: 400;
-    }
+.about-us p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
 
 /* Contact page */
-
 
 /* Contact Heading Section */
 
@@ -201,8 +202,7 @@ header {
     right: auto;
 }
 
-
-.contact-heading h2{
+.contact-heading h2 {
     font-family: 'Lato', sans-serif;
     color: #2b2422;
     font-size: 30px;
@@ -212,7 +212,6 @@ header {
 }
 
 /* Call Us Section */
-
 
 .call-us {
     width: 100%;
@@ -238,7 +237,7 @@ header {
 
 /* Address Section */
 
-.contact-address-box{
+.contact-address-box {
     background-color: #3f3937;
     min-height: 120px;
     width: 50%;
@@ -262,10 +261,9 @@ header {
     margin-top: 5px;
     margin-bottom: 5px;
     margin-left: 20px;
-  
 }
 
-.contact-address-text{
+.contact-address-text {
     list-style: none;
 }
 
@@ -286,21 +284,18 @@ header {
     margin: 0 auto;
 }
 
-
 .contact-map iframe {
     width: 100%;
     height: 100%;
     border: 0;
 }
 
-
 /* Form Section */
 .contact-form {
     background-color: #8C776A;
-    
 }
 
-.contact-form form{
+.contact-form form {
     min-height: 400px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -333,27 +328,25 @@ form label {
     color: #0f0e0e;
 }
 
-
 /* Place holder text from https://www.w3schools.com/cssref/sel_placeholder.asp */
 
 ::-webkit-input-placeholder {
     color: #0f0e0e;
-  }
-  
-  :-ms-input-placeholder {
+}
+
+:-ms-input-placeholder {
     color: #0f0e0e;
-  }
-  
-  ::placeholder {
+}
+
+::placeholder {
     color: #0f0e0e;
-  }
+}
 
 form textarea {
     background-color: #7D899F;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     color: #0f0e0e;
-
     border: 2px solid #0f0e0e;
     border-radius: 5px;
 }
@@ -384,8 +377,7 @@ form label #fname {
     margin-bottom: 30px;
 }
 
-
-.the-team-box{
+.the-team-box {
     min-height: 450px;
     background-color: #8C776A;
 }
@@ -398,7 +390,6 @@ form label #fname {
     border-radius: 10px;
     margin-top: 30px;
 }
-
 
 .image-of-james {
     background: url('../images/image-of-james.jpg');
@@ -517,7 +508,6 @@ form label #fname {
     color: #b3c0d6;
 }
 
-
 /* footer */
 
 footer {
@@ -555,7 +545,7 @@ footer {
     background-color: #8C776A;
 }
 
-.send-message-text p{
+.send-message-text p {
     font-family: 'Lato', sans-serif;
     font-size: 30px;
     font-weight: 400;
@@ -563,21 +553,21 @@ footer {
 }
 
 /* Media Queries */
+
 @media(max-width: 1200px) {
     .navbar-dark .navbar-nav .nav-link {
         font-size: 17px;
     }
 }
 
-
 @media(max-width: 1400px) {
     .image-text p {
-        font-size: 14px;   
+        font-size: 14px;
     }
 }
 
 @media(max-width: 540px) {
     .image-text p {
-        font-size: 11px;   
+        font-size: 11px;
     }
 }
