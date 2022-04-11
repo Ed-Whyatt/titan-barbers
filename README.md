@@ -65,6 +65,14 @@
 
 -   Intreactive menu when viewed on a mobile and tablet.
 
+-   Website features include:
+
+    - Prices section.
+    - Opening hours section.
+    - About Us section.
+    - Contact page with form.
+    - Meet the team page.
+
 ## Technologies Used
 
 ### Languages Used
