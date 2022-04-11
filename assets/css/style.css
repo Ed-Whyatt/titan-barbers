@@ -62,7 +62,7 @@ header {
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: rgba(125, 137, 159, .70);
+    color: rgba(225, 228, 235, 0.7);
 }
 
 /*  Book Now Section */
@@ -196,9 +196,6 @@ header {
 
 /* Contact page */
 
-.contact-page {
-
-}
 
 /* Contact Heading Section */
 
@@ -213,7 +210,7 @@ header {
 
 .contact-heading h2{
     font-family: 'Lato', sans-serif;
-    color: #3f3937;
+    color: #2b2422;
     font-size: 30px;
     font-weight: 400;
     margin-top: 30px;
@@ -236,12 +233,8 @@ header {
 .call-us-box {
     background-color: #3f3937;
     min-height: 100px;
-    width: 40%;
     margin: 0 auto;
     border-radius: 10px;
-    margin-top: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
 }
 
 .call-us h3 {
@@ -261,7 +254,6 @@ header {
     width: 40%;
     margin: 0 auto;
     border-radius: 10px;
-   
 }
 
 .contact-address {
@@ -282,12 +274,12 @@ header {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
+    margin-left: 20px;
   
 }
 
 .contact-address-text{
     list-style: none;
-    margin-left: 80px;
 }
 
 .contact-address-text li {
@@ -303,20 +295,17 @@ header {
 .contact-map {
     width: 100%;
     min-height: 400px;
-    padding-top: 60px;
     background-color: #8C776A;
     margin: 0 auto;
 }
 
 
 .contact-map iframe {
-    margin-top: 60px;
-    margin-left: 50px;
+    width: 100%;
+    height: 100%;
+    border: 0;
 }
 
-.contact-map-sm iframe {
-    margin-left: 0%;
-}
 
 /* Form Section */
 .contact-form {
@@ -566,22 +555,38 @@ footer {
 .barbers-address li {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
-    color: #7D899F;
+    color: #b3c0d6;
 }
 
 .barbers-social li {
     font-weight: 400;
-    color: #7D899F;
+    color: #b3c0d6;
     font-size: 60px;
 }
 
 .barbers-social li a {
     font-weight: 400;
-    color: #7D899F;
+    color: #b3c0d6;
     font-size: 60px;
 }
 
+/* Send Page */
+
+.send-message {
+    background-color: #8C776A;
+}
+
+.send-message-text p{
+    color: #2b2422;
+}
+
 /* Media Queries */
+@media(max-width: 1200px) {
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 17px;
+    }
+}
+
 
 @media(max-width: 1400px) {
     .image-text p {
