@@ -110,5 +110,12 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) - [Results](/documentation/w3c-validator/w3c-html-checker.jpg)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/w3c-validator/w3c-css-testing.jpg)
+
+### Further Testing
+
+-   The website has been tested on Google Chrome, Internet Explorer, Microsoft Edge, Samsung internet and Firefox.
+-   The website was viewed on such devices as Desktop, Laptop, iPhone 6/7/8 Glaxy note 10 and Samsung tablet 3.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   The website has been tested by friends and family members to review the site and documentation to point out any bugs and/ or user experience issues.
