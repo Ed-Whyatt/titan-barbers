@@ -93,7 +93,7 @@ header {
 
 /* button https://www.w3schools.com/howto/howto_css_button_on_image.asp */
 
-.book-now .btn {
+.book-now-btn {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -109,7 +109,7 @@ header {
     border-radius: 10px;
 }
 
-.book-now .btn:hover {
+.book-now-btn:hover {
     background-color: #7D899F;
     color: #3f3937;
 }
