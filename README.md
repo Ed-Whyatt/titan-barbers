@@ -26,7 +26,10 @@
 
 -  ### Colour Scheme
 
-      - 
+      - The main colours used are Medium brown, Pastel brown, Pastel Blue and Pastel Chalk. 
+      - Dark Brown and a lighter Pastel blue are used for contrast in some of the text and form.
+      - [http://colormind.io/ ](http://colormind.io/) has been used to aid the desision the colour sceme for the project.
+
 
 -   #### Typography
 
@@ -70,7 +73,7 @@
     - Prices section.
     - Opening hours section.
     - About Us section.
-    - Contact page with form.
+    - Contact page with form and contact details.
     - Meet the team page.
 
 ## Technologies Used
@@ -101,4 +104,11 @@
 
 1. [GitHub Projects](https://github.com/Ed-Whyatt/titan-barbers/projects/1)
 1. [GitHub Projects screen shot](/documentation/git-hub-projects/git-hub-projects-barbers.jpg)
-    - Git hub projects was used to organise the tasks easily throughout the proses of creating the website.
+    - Git hub projects was used to organise the tasks easily throughout the proses of creating the project.
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
