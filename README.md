@@ -162,12 +162,26 @@ git clone https://github.com/Ed-Whyatt/titan-barbers
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
-### Code
+## Credits
 
--   [Code Institute](https://codeinstitute.net/): Code Institutes lessons have help with all coding throughout this project.
+###  Code
 
--   [Code Institute Sample README.md](https://github.com/Code-Institute-Solutions/SampleREADME) Code Institute Sample README.md has been used to help with readme layout.
+   -   [Code Institute](https://codeinstitute.net/): Code Institutes lessons have help with all coding throughout this project.
 
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+   -   [Code Institute Sample README.md](https://github.com/Code-Institute-Solutions/SampleREADME) Code Institute Sample README.md has been used to help with readme layout.
 
--   [W3 Schools](https://www.w3schools.com/): W3 Schools has been used with some elements in this project mainly the book now link.
+   -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+   -   [W3 Schools](https://www.w3schools.com/): W3 Schools has been used with some elements in this project mainly the book now link.
+
+### Content
+
+   -   All content was written by the developer.
+
+### Acknowledgements
+
+   -	My mentor for continuous helpful feedback.
+   -	Tutor support at Code Institute.
+   -	Support from staff at The City of Bristol collage.
+   -	Members on Code Institutes Slack.
+
