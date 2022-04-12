@@ -28,7 +28,7 @@
 
       - The main colours used are Medium brown, Pastel brown, Pastel Blue and Pastel Chalk. 
       - Dark Brown and a lighter Pastel blue are used for contrast in some of the text and form.
-      - [http://colormind.io/ ](http://colormind.io/) has been used to aid the desision the colour sceme for the project.
+      - [Color Mind](http://colormind.io/) : Colormind has been used to aid the desision the colour sceme for the project.
 
 
 -   #### Typography
@@ -38,7 +38,7 @@
 
 -   #### Imagery
 
-     -   Imagery is crucial to show the interior of the shop and the staff portraits all images are from [www.pexels.com](https://www.pexels.com/)
+     -   [Pixels](https://www.pexels.com/) : Pixels images have been used to show the interior of the shop and the staff portraits.
 
 ## Wireframes
 
@@ -161,3 +161,13 @@ git clone https://github.com/Ed-Whyatt/titan-barbers
  Unpacking objects: 100% (10/10), done.
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+### Code
+
+-   [Code Institute](https://codeinstitute.net/): Code Institutes lessons have help with all coding throughout this project.
+
+-   [Code Institute Sample README.md](https://github.com/Code-Institute-Solutions/SampleREADME) Code Institute Sample README.md has been used to help with readme layout.
+
+-   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+-   [W3 Schools](https://www.w3schools.com/): W3 Schools has been used with some elements in this project mainly the book now link.
