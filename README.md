@@ -65,7 +65,7 @@
 
 -   Intreactive menu when viewed on a mobile and tablet.
 
--   Website features include:
+-   Other Features include:
 
     - Prices section.
     - Opening hours section.
@@ -95,4 +95,10 @@
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the [wireframes](https://github.com/Ed-Whyatt/titan-barbers/blob/main/README.md) during the design process.
+
+### GitHub Projects
+
+1. [GitHub Projects](https://github.com/Ed-Whyatt/titan-barbers/projects/1)
+1. [GitHub Projects screen shot](/documentation/git-hub-projects/git-hub-projects-barbers.jpg)
+    - Git hub projects was used to organise the tasks easily throughout the proses of creating the website.
