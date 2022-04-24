@@ -1,8 +1,10 @@
-<h1 align="center">Titan Barbers<h1>
+<h1 align="center">Titan Barbers</h1>
 
 ## [View The Live Project Here](https://ed-whyatt.github.io/titan-barbers/)
 
 ### This website will be the first contact point for a customer browsing the web who will be visiting Titan Barbers. It is designed for the customer to easily navigate using a wide range of devices to find all the information needed to know the opening times, cost, location and contact information of the shop.
+
+## ![Text](documentation/responsive-design/responsive-design-image.jpg)
 
 ## User Experience (UX)
 
@@ -99,6 +101,8 @@
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/Ed-Whyatt/titan-barbers/blob/main/README.md) during the design process.
+1. [Am I Responsive Design:](http://ami.responsivedesign.is/)
+    - Am I Responsive Design was used for the responsive image in Readme.
 
 ### GitHub Projects
 
@@ -168,7 +172,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
    -   [Code Institute](https://codeinstitute.net/): Code Institutes lessons have help with all coding throughout this project.
 
-   -   [Code Institute Sample README.md](https://github.com/Code-Institute-Solutions/SampleREADME) Code Institute Sample README.md has been used to help with readme layout.
+   -   [Code Institute Sample README.md](https://github.com/Code-Institute-Solutions/SampleREADME): Code Institute Sample README.md has been used to help with readme layout.
 
    -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
