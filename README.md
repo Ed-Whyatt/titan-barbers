@@ -124,6 +124,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   The website has been tested by friends and family members to review the site and documentation to point out any bugs and/ or user experience issues.
 
+### Known Bugs
+
+-   On some small mobile devices the heading pushes the bootstap navigation below in the header.
+-   On some small mobile devices the text in the meet the team section overlaps the container.
+-   On some small mobile devices the form will not fit inside the page.
+
 ### GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps...
