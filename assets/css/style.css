@@ -45,7 +45,6 @@ header {
     font-weight: 400;
     color: #c1b4a8;
     font-size: 20px;
-
 }
 
 .navbar-dark .navbar-nav .active>.nav-link.nav-link {
@@ -72,9 +71,23 @@ header {
     font-size: 40px;
 }
 
+.back-to-top a :Hover{
+    background-color: #2b2422;
+    color: #8C776A;
+    border-radius: 5px;
+}
+
 .back-to-top-about p{
     color:#0f0e0e;
 }
+
+.back-to-top-about a :Hover{
+    background-color: #0f0e0e;
+    color: #7D899F;
+    border-radius: 5px;
+}
+
+
 
 /*  Book Now Section */
 
