@@ -117,6 +117,42 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) - [Results](/documentation/w3c-validator/w3c-html-checker.jpg)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/w3c-validator/w3c-css-testing.jpg)
 
+### Testing User Stories from User Experience (UX) Section
+
+-  #### First Time Customer Goals
+
+    1. As a First Time Customer, I want to easily book an appointment and see the prices for a haircuts or beard trim.
+
+          1. when entering the site, customers are automatically greeted with an easily readable navigation bar with a clear description to go to the location of there choice. Underneath is an image of the shop with a clear button with book now on it, witch navigates to the contact page.
+          2. The shop is shown in the first image with an excellent view of the comfy chairs they could be sitting in for a beard trim or haircut.
+
+    2. As a First Time Customer, I want to be navigated easily throughout the website to find content
+          1. The customer has lots of options to easily navigate to the prices and opening hours in the navigation bar. Witch becomes a drop-down menu in mobile and tablet view.
+          2. The customer can easily navigate to the top of the page throughout the website.
+
+    3. As a First Time Customer, I want to familiarize myself with the staff and see information about their skills and history.
+          1. The customer can see a clear image of each team member so they can familiarize with them when vesting the shop.
+          2. The customer can easily navigate to the meet the team page and read a little bit about the staff and their skills.
+
+-   #### Returning Customer Goals
+
+    1. As a Returning Customer, I want to easily navigate back to book another appointment.
+           1. The customer can easily navigate to the contact page using the navigation or the book now button.
+           2. The customer can find all the information to book another appointment on the contact page.
+    
+    2. As a Returning Customer, I want to easily navigate to the address.
+           1. The customer and esaliy find the address in the contact page and in the footer of all the pages.
+
+-   #### Frequent Customer Goals
+
+    1. As a Frequent Customer, I want to check if any staff have left or there are any new staff.
+           1. The customer can easily navigate to the meet the team page where thay can see all the current staff.
+           2. The customer can easily see a picture and decription of the staff witch will be updated if theres any changes.
+
+    2. As a Frequent Customer, I want to easily see if there have been any changes to the prices or opening hours.
+           1. The customer can easily navigate to the prices section on the main page useing the navgation bar.
+           2. The customer can easily navigate to the opening hours section on the main page to see if there have been any changes.
+
 ### Further Testing
 
 -   The website has been tested on Google Chrome, Internet Explorer, Microsoft Edge, Samsung internet and Firefox.
