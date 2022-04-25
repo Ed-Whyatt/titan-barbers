@@ -25,7 +25,6 @@ header {
 
 .titan-barbers-heading a {
     text-decoration: none;
-
 }
 
 .titan-barbers-title h1 {
@@ -66,28 +65,26 @@ header {
 
 /* Back to top arrow */
 
-.back-to-top p{
+.back-to-top p {
     color: #2b2422;
     font-size: 40px;
 }
 
-.back-to-top a :Hover{
+.back-to-top a :Hover {
     background-color: #2b2422;
     color: #8C776A;
     border-radius: 5px;
 }
 
-.back-to-top-about p{
-    color:#0f0e0e;
+.back-to-top-about p {
+    color: #0f0e0e;
 }
 
-.back-to-top-about a :Hover{
+.back-to-top-about a :Hover {
     background-color: #0f0e0e;
     color: #7D899F;
     border-radius: 5px;
 }
-
-
 
 /*  Book Now Section */
 
@@ -338,7 +335,6 @@ form input {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     color: #0f0e0e;
-
     padding: 6px 20px;
     border: 2px solid #0f0e0e;
     border-radius: 5px;
@@ -411,7 +407,7 @@ form label #fname {
 }
 
 .image-of-james {
-    background: url('../images/image-of-james.jpg');
+    background: url('../images/image-of-james.webp');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -428,7 +424,7 @@ form label #fname {
 }
 
 .image-of-david {
-    background: url('../images/image-of-david.jpg');
+    background: url('../images/image-of-david.webp');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -445,7 +441,7 @@ form label #fname {
 }
 
 .image-of-martin {
-    background: url('../images/image-of-martin.jpg');
+    background: url('../images/image-of-martin.webp');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -462,7 +458,7 @@ form label #fname {
 }
 
 .image-of-tim {
-    background: url('../images/image-of-tim.jpg');
+    background: url('../images/image-of-tim.webp');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -479,7 +475,7 @@ form label #fname {
 }
 
 .image-of-john {
-    background: url('../images/image-of-john.jpg');
+    background: url('../images/image-of-john.webp');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -496,7 +492,7 @@ form label #fname {
 }
 
 .image-of-andy {
-    background: url('../images/image-of-andy.jpg');
+    background: url('../images/image-of-andy.webp');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
