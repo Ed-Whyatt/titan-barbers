@@ -247,7 +247,7 @@ header {
     border-radius: 10px;
 }
 
-.call-us h3 {
+.call-us h2,h3 {
     font-family: 'Lato', sans-serif;
     color: #c1b4a8;
     font-size: 35px;
@@ -321,7 +321,7 @@ header {
     margin: 0 auto;
 }
 
-form h2 {
+form h3 {
     font-family: 'Lato', sans-serif;
     color: #0f0e0e;
     font-size: 30px;
@@ -530,7 +530,7 @@ footer {
     min-height: 100px;
 }
 
-.barbers-footer h3 {
+.barbers-footer h3,h4 {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #c1b4a8;
