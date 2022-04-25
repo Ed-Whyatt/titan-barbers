@@ -100,7 +100,7 @@ header {
 
 .book-now-image {
     height: 100vh;
-    background: url('../images/shop-floor.jpg');
+    background: url('../images/shop-floor.webp');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -186,7 +186,7 @@ header {
 
 .about-image {
     height: 100vh;
-    background: url('../images/about-us.jpg');
+    background: url('../images/about-us.webp');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
