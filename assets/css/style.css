@@ -163,7 +163,7 @@ header {
 .opening h2 {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #3F3937;
+    color: #2b2422;
     font-size: 40px;
 }
 
@@ -175,7 +175,7 @@ header {
 .prices h2 {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #3F3937;
+    color: #2b2422;
     font-size: 40px;
 }
 
@@ -530,7 +530,7 @@ footer {
     min-height: 100px;
 }
 
-.barbers-footer h4 {
+.barbers-footer h3 {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #c1b4a8;
