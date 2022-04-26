@@ -156,21 +156,21 @@ Google Dev Tools Lighthouse was used to for improving the quality of website.
 -   #### Returning Customer Goals
 
     1. As a Returning Customer, I want to easily navigate back to book another appointment.
-           1. The customer can easily navigate to the contact page using the navigation or the book now button.
-           2. The customer can find all the information to book another appointment on the contact page.
+          1. The customer can easily navigate to the contact page using the navigation or the book now button.
+          2. The customer can find all the information to book another appointment on the contact page.
     
     2. As a Returning Customer, I want to easily navigate to the address.
-           1. The customer and esaliy find the address in the contact page and in the footer of all the pages.
+        1. The customer and esaliy find the address in the contact page and in the footer of all the pages.
 
 -   #### Frequent Customer Goals
 
     1. As a Frequent Customer, I want to check if any staff have left or there are any new staff.
-           1. The customer can easily navigate to the meet the team page where thay can see all the current staff.
-           2. The customer can easily see a picture and decription of the staff witch will be updated if theres any changes.
+        1. The customer can easily navigate to the meet the team page where thay can see all the current staff.
+        2. The customer can easily see a picture and decription of the staff witch will be updated if theres any changes.
 
     2. As a Frequent Customer, I want to easily see if there have been any changes to the prices or opening hours.
-           1. The customer can easily navigate to the prices section on the main page useing the navgation bar.
-           2. The customer can easily navigate to the opening hours section on the main page to see if there have been any changes.
+        1. The customer can easily navigate to the prices section on the main page useing the navgation bar.
+        2. The customer can easily navigate to the opening hours section on the main page to see if there have been any changes.
 
 ### Further Testing
 
