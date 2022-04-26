@@ -117,6 +117,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) - [Results](/documentation/w3c-validator/w3c-html-checker.jpg)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/w3c-validator/w3c-css-testing.jpg)
 
+-  ### Google Dev Tools
+
+Google Dev Tools was used in the testing and editing of the project.
+
+-  [Google Dev Tools](https://developer.chrome.com/docs/devtools/)
+
+Google Dev Tools Lighthouse was used to for improving the quality of website.
+
+### Fixed Bugs
+
+-  #### Some of the heading elements across the page were not in a sequentially-decending order
+
+   -  ![Text](documentation/google-dev-tools/lighthouse-testing.jpg)
+
 ### Testing User Stories from User Experience (UX) Section
 
 -  #### First Time Customer Goals
