@@ -114,8 +114,13 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) - [Results](/documentation/w3c-validator/w3c-html-checker.jpg)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/w3c-validator/w3c-css-testing.jpg)
+-   [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) 
+ 
+    - ### Results ![Text](/documentation/w3c-validator/w3c-html-checker.jpg)
+
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+    
+    - ### Results ![Text](/documentation/w3c-validator/w3c-css-testing.jpg)
 
 -  ### Google Dev Tools
 
