@@ -40,7 +40,22 @@
 
 -   #### Imagery
 
-     -   [Pixels](https://www.pexels.com/) : Pixels images have been used to show the interior of the shop and the staff portraits.
+[Pixels](https://www.pexels.com/) : Pixels images have been used to show the interior of the shop and the staff portraits.
+    
+-  Home page  
+
+    1. [Book now image](https://www.pexels.com/photo/man-in-black-t-shirt-sitting-on-black-chair-3993133/)
+    1. [Abount us sectionn image](https://www.pexels.com/photo/person-in-black-long-sleeve-shirt-holding-gold-and-silver-beaded-bracelet-3998389/)
+
+- Meet the team page
+    
+    1. [Andy image](https://www.pexels.com/photo/cheerful-ethnic-waiter-in-apron-standing-against-street-cafe-5920775/)
+    1. [David image](https://www.pexels.com/photo/man-in-black-hat-and-white-dress-shirt-3998422/)
+    1. [James image](https://www.pexels.com/photo/a-man-in-a-black-suit-and-a-silver-scissors-mid-air-5337959/)
+    1. [John image](https://www.pexels.com/photo/a-man-holding-on-the-armrest-of-a-barber-chair-8867160/)
+    1. [Martin image](https://www.pexels.com/photo/a-barber-with-tattoos-8552627/)
+    1. [Tim image](https://www.pexels.com/photo/man-people-woman-sitting-7697395/)
+
 
 ## Wireframes
 
@@ -114,27 +129,21 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) 
- 
-    - ### Results ![Text](/documentation/w3c-validator/w3c-html-checker.jpg)
+-   [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) - [Results](/documentation/w3c-validator/w3c-html-checker.jpg)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/w3c-validator/w3c-css-testing.jpg)
 
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
-    
-    - ### Results ![Text](/documentation/w3c-validator/w3c-css-testing.jpg)
+## Google DevTools
 
--  ### Google Dev Tools
+Google DevTools and Lighthouse has been used for testing and editing the project.
 
-Google Dev Tools was used in the testing and editing of the project.
+-  [Google DevTools](https://developer.chrome.com/docs/devtools/)
 
--  [Google Dev Tools](https://developer.chrome.com/docs/devtools/)
+-  ### Fixed Bugs
 
-Google Dev Tools Lighthouse was used to for improving the quality of website.
+ Some of the heading eleements were not in sequentially-decending order across the website.
+   
+-  ### ![Text](documentation/google-dev-tools/lighthouse-testing.jpg)
 
-### Fixed Bugs
-
--  #### Some of the heading elements across the page were not in a sequentially-decending order
-
-   -  ![Text](documentation/google-dev-tools/lighthouse-testing.jpg)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -156,21 +165,21 @@ Google Dev Tools Lighthouse was used to for improving the quality of website.
 -   #### Returning Customer Goals
 
     1. As a Returning Customer, I want to easily navigate back to book another appointment.
-          1. The customer can easily navigate to the contact page using the navigation or the book now button.
-          2. The customer can find all the information to book another appointment on the contact page.
+           1. The customer can easily navigate to the contact page using the navigation or the book now button.
+           2. The customer can find all the information to book another appointment on the contact page.
     
     2. As a Returning Customer, I want to easily navigate to the address.
-        1. The customer and esaliy find the address in the contact page and in the footer of all the pages.
+           1. The customer and esaliy find the address in the contact page and in the footer of all the pages.
 
 -   #### Frequent Customer Goals
 
     1. As a Frequent Customer, I want to check if any staff have left or there are any new staff.
-        1. The customer can easily navigate to the meet the team page where thay can see all the current staff.
-        2. The customer can easily see a picture and decription of the staff witch will be updated if theres any changes.
+           1. The customer can easily navigate to the meet the team page where thay can see all the current staff.
+           2. The customer can easily see a picture and decription of the staff witch will be updated if theres any changes.
 
     2. As a Frequent Customer, I want to easily see if there have been any changes to the prices or opening hours.
-        1. The customer can easily navigate to the prices section on the main page useing the navgation bar.
-        2. The customer can easily navigate to the opening hours section on the main page to see if there have been any changes.
+           1. The customer can easily navigate to the prices section on the main page useing the navgation bar.
+           2. The customer can easily navigate to the opening hours section on the main page to see if there have been any changes.
 
 ### Further Testing
 
@@ -214,11 +223,11 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
-$ git clone https://github.com/Ed-Whyatt/titan-barbers
+$ git clone https://ed-whyatt.github.io/titan-barbers/
 
 7. Press Enter. Your local clone will be created.
 
-git clone https://github.com/Ed-Whyatt/titan-barbers
+git clone https://ed-whyatt.github.io/titan-barbers/
  Cloning into `CI-Clone`...
  remote: Counting objects: 10, done.
  remote: Compressing objects: 100% (8/8), done.
@@ -238,6 +247,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
    -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
    -   [W3 Schools](https://www.w3schools.com/): W3 Schools has been used with some elements in this project mainly the book now link.
+
+   -   [https://autoprefixer.github.io/]: Autoprefixer has been used with the images in css for Crapple/Apple/iOS fallback browsers.
 
 ### Content
 
