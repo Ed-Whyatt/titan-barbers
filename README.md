@@ -31,6 +31,7 @@
       - The main colours used are Medium brown, Pastel brown, Pastel Blue and Pastel Chalk. 
       - Dark Brown and a lighter Pastel blue are used for contrast in some of the text and form.
       - [Color Mind](http://colormind.io/) : Colormind has been used to aid the desision the colour sceme for the project.
+      ### ![Text](documentation/colour-scheme/colours.jpg)
 
 
 -   #### Typography
