@@ -95,6 +95,9 @@
     - ### Back to top arrow across all pages.
       ### ![Text](documentation/introactive-elements-images/back-to-top.png)
       ### ![Text](documentation/introactive-elements-images/back-to-top-hover.jpg)
+    - ### Footer with address and lnks to socoial media.
+      ### ![Text](documentation/introactive-elements-images/footer.jpg)
+
 
 -   ### Other Features include:
 
@@ -137,17 +140,26 @@
     - Am I Responsive Design was used for the responsive image in Readme.
 
 ### GitHub Projects
-
-1. [GitHub Projects](https://github.com/Ed-Whyatt/titan-barbers/projects/1)
-1. [GitHub Projects screen shot](/documentation/git-hub-projects/git-hub-projects-barbers.jpg)
-    - Git hub projects was used to organise the tasks easily throughout the proses of creating the project.
+Git hub projects was used to organise the tasks easily throughout the proses of creating the project.
+-   [GitHub Projects](https://github.com/Ed-Whyatt/titan-barbers/projects/1)
+### ![Text](/documentation/git-hub-projects/git-hub-projects-barbers.jpg)
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/#validate_by_uri) - [Results](/documentation/w3c-validator/w3c-html-checker.jpg)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/w3c-validator/w3c-css-testing.jpg)
+-   ### [W3C Markup Validator](https://validator.w3.org/#validate_by_uri)
+-   ### Home page 
+    ### ![Text](documentation/w3c-validator/index-html-checker.jpg)
+-   ### Contact page 
+    ### ![Text](documentation/w3c-validator/contact-html-checker.jpg)
+-   ### The Team page
+    ### ![Text](documentation/w3c-validator/team-html-checker.jpg)
+-   ### Send page
+    ### ![Text](documentation/w3c-validator/send-html-checker.jpg)
+
+-   ### [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+    ### ![Text](documentation/w3c-validator/css-checker.jpg)
 
 ## Google DevTools
 
@@ -159,7 +171,7 @@ Google DevTools and Lighthouse has been used for testing and editing the project
 
  Some of the heading eleements were not in sequentially-decending order across the website.
    
--  ### ![Text](documentation/google-dev-tools/lighthouse-testing.jpg)
+### ![Text](documentation/google-dev-tools/lighthouse-testing.jpg)
 
 
 ### Testing User Stories from User Experience (UX) Section
@@ -170,33 +182,53 @@ Google DevTools and Lighthouse has been used for testing and editing the project
 
           1. when entering the site, customers are automatically greeted with an easily readable navigation bar with a clear description to go to the location of there choice. Underneath is an image of the shop with a clear button with book now on it, witch navigates to the contact page.
           2. The shop is shown in the first image with an excellent view of the comfy chairs they could be sitting in for a beard trim or haircut.
+          #### ![Text](documentation/introactive-elements-images/nav-bar.jpg)
+          #### ![Text](documentation/introactive-elements-images/book-now.png) 
 
     2. As a First Time Customer, I want to be navigated easily throughout the website to find content
           1. The customer has lots of options to easily navigate to the prices and opening hours in the navigation bar. Witch becomes a drop-down menu in mobile and tablet view.
           2. The customer can easily navigate to the top of the page throughout the website.
+          #### ![Text](documentation/introactive-elements-images/nav-bar.jpg)
+          #### ![Text](documentation/introactive-elements-images/bootstrap-menu.jpg) ![Text](documentation/introactive-elements-images/prices.jpg) ![Text](documentation/introactive-elements-images/opening-hours.jpg)
 
     3. As a First Time Customer, I want to familiarize myself with the staff and see information about their skills and history.
-          1. The customer can see a clear image of each team member so they can familiarize with them when vesting the shop.
+          1. The customer can see a clear image of each team member so they can familiarize with them when visiting the shop.
           2. The customer can easily navigate to the meet the team page and read a little bit about the staff and their skills.
+          #### ![Text](documentation/introactive-elements-images/nav-bar.jpg)
+          #### ![Text](documentation/introactive-elements-images/meet-the-team.jpg)
 
 -   #### Returning Customer Goals
 
-    1. As a Returning Customer, I want to easily navigate back to book another appointment.
-           1. The customer can easily navigate to the contact page using the navigation or the book now button.
-           2. The customer can find all the information to book another appointment on the contact page.
+1. As a Returning Customer, I want to easily navigate back to book another appointment.
+
+     1. The customer can easily navigate to the contact page using the navigation or the book now button.
+
+     2. The customer can find all the information to book another appointment on the contact page.
+     #### ![Text](documentation/introactive-elements-images/nav-bar.jpg)
+     #### ![Text](documentation/introactive-elements-images/book-now.png) 
     
-    2. As a Returning Customer, I want to easily navigate to the address.
-           1. The customer and esaliy find the address in the contact page and in the footer of all the pages.
+2. As a Returning Customer, I want to easily navigate to the address.
+
+    1. The customer and esaliy find the address in the contact page and in the footer of all the pages.
+    ### ![Text](documentation/introactive-elements-images/footer.jpg)
 
 -   #### Frequent Customer Goals
 
     1. As a Frequent Customer, I want to check if any staff have left or there are any new staff.
-           1. The customer can easily navigate to the meet the team page where thay can see all the current staff.
-           2. The customer can easily see a picture and decription of the staff witch will be updated if theres any changes.
+
+        1. The customer can easily navigate to the meet the team page where thay can see all the current staff.
+
+        2. The customer can easily see a picture and decription of the staff witch will be updated if theres any changes.
+        #### ![Text](documentation/introactive-elements-images/nav-bar.jpg)
+        #### ![Text](documentation/introactive-elements-images/meet-the-team.jpg)
 
     2. As a Frequent Customer, I want to easily see if there have been any changes to the prices or opening hours.
-           1. The customer can easily navigate to the prices section on the main page useing the navgation bar.
-           2. The customer can easily navigate to the opening hours section on the main page to see if there have been any changes.
+
+        1. The customer can easily navigate to the prices section on the main page useing the navgation bar.
+
+        2. The customer can easily navigate to the opening hours section on the main page to see if there have been any changes.
+        #### ![Text](documentation/introactive-elements-images/nav-bar.jpg)
+        #### ![Text](documentation/introactive-elements-images/bootstrap-menu.jpg) ![Text](documentation/introactive-elements-images/prices.jpg) ![Text](documentation/introactive-elements-images/opening-hours.jpg)
 
 ### Further Testing
 
@@ -211,7 +243,7 @@ Google DevTools and Lighthouse has been used for testing and editing the project
 -   On some small mobile devices the text in the meet the team section overlaps the container.
 -   On some small mobile devices the form will not fit inside the page.
 
-### GitHub Pages
+### Deployment
 
 The project was deployed to GitHub Pages using the following steps...
 
@@ -244,12 +276,14 @@ $ git clone https://ed-whyatt.github.io/titan-barbers/
 
 7. Press Enter. Your local clone will be created.
 
-git clone https://ed-whyatt.github.io/titan-barbers/
- Cloning into `CI-Clone`...
- remote: Counting objects: 10, done.
- remote: Compressing objects: 100% (8/8), done.
- remove: Total 10 (delta 1), reused 10 (delta 1)
- Unpacking objects: 100% (10/10), done.
+```
+git clone https://github.com/Ed-Whyatt/titan-barbers.git
+Cloning into CI-Clone...
+remote: Counting objects: 10, done.
+remote: Compressing objects: 100% (8/8), done.
+remove: Total 10 (delta 1), reused 10 (delta 1)
+Unpacking objects: 100% (10/10), done.
+```
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
