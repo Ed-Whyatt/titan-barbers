@@ -40,14 +40,14 @@
 
 -   #### Imagery
 
-[Pixels](https://www.pexels.com/) : Pixels images have been used to show the interior of the shop and the staff portraits.
+    #### [Pixels](https://www.pexels.com/) : Pixels images have been used to show the interior of the shop and the staff portraits.
     
--  Home page  
+-  Home page images:
 
     1. [Book now image](https://www.pexels.com/photo/man-in-black-t-shirt-sitting-on-black-chair-3993133/)
     1. [Abount us sectionn image](https://www.pexels.com/photo/person-in-black-long-sleeve-shirt-holding-gold-and-silver-beaded-bracelet-3998389/)
 
-- Meet the team page
+- Meet the team page images:
     
     1. [Andy image](https://www.pexels.com/photo/cheerful-ethnic-waiter-in-apron-standing-against-street-cafe-5920775/)
     1. [David image](https://www.pexels.com/photo/man-in-black-hat-and-white-dress-shirt-3998422/)
@@ -79,19 +79,35 @@
 
 ## Features
 
--   Responsive on all devices.
+-   ### Responsive on all devices - [view](documentation/responsive-design/responsive-design-image.jpg)
 
--   Interactive elements.
+-  ### Interactive elements.
 
--   Intreactive menu when viewed on a mobile and tablet.
+    - ### Navagation have links to Home, Opening, Prices, About and The team.
+      ### ![Text](documentation/introactive-elements-images/nav-bar.jpg)
+    
+    - ### Book now button witch takes you to the contact page.
+      ### ![Text](documentation/introactive-elements-images/book-now.png)
 
--   Other Features include:
+    - ### Intreactive menu when viewed on a mobile and tablet.
+      ### ![Text](documentation/introactive-elements-images/bootstrap-menu.jpg)
+    - ### Back to top arrow across all pages.
+      ### ![Text](documentation/introactive-elements-images/back-to-top.png)
+      ### ![Text](documentation/introactive-elements-images/back-to-top-hover.jpg)
 
-    - Prices section.
-    - Opening hours section.
-    - About Us section.
-    - Contact page with form and contact details.
-    - Meet the team page.
+-   ### Other Features include:
+
+    - ### Prices section.
+      ### ![Text](documentation/introactive-elements-images/prices.jpg)
+    - ### Opening hours section.
+      ### ![Text](documentation/introactive-elements-images/opening-hours.jpg)
+    - ### About Us section.
+      ### ![Text](documentation/introactive-elements-images/about-us.jpg)
+    - ### Contact page with form and contact details.
+      ### ![Text](documentation/introactive-elements-images/contact-us.jpg)
+      ### ![Text](documentation/introactive-elements-images/form.jpg)
+    - ### Meet the team page.
+      ### ![Text](documentation/introactive-elements-images/meet-the-team.jpg)
 
 ## Technologies Used
 
