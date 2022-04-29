@@ -167,6 +167,14 @@ Google DevTools and Lighthouse has been used for testing and editing the project
 
 -  [Google DevTools](https://developer.chrome.com/docs/devtools/)
 
+- Some of the images have been resized in the meet me page as they were reducing the preformance.
+- #### Before resizing:
+#### ![Text](documentation/google-dev-tools/lighthouse-performance.png)
+- #### After resizing:
+#### ![Text](documentation/google-dev-tools/lighthouse-performance-after.png)
+
+
+
 -  ### Fixed Bugs
 
  Some of the heading eleements were not in sequentially-decending order across the website.
