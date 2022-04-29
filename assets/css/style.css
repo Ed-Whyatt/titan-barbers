@@ -97,7 +97,7 @@ header {
 
 .book-now-image {
     height: 100vh;
-    background: url('../images/shop-floor.webp');
+    background: url('../images/shop-floor.png');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -183,7 +183,7 @@ header {
 
 .about-image {
     height: 100vh;
-    background: url('../images/about-us.webp');
+    background: url('../images/abut-us.png');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -407,7 +407,7 @@ form label #fname {
 }
 
 .image-of-james {
-    background: url('../images/image-of-james.webp');
+    background: url('../images/image-of-james.png');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -424,7 +424,7 @@ form label #fname {
 }
 
 .image-of-david {
-    background: url('../images/image-of-david.webp');
+    background: url('../images/image-of-david.png');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -441,7 +441,7 @@ form label #fname {
 }
 
 .image-of-martin {
-    background: url('../images/image-of-martin.webp');
+    background: url('../images/image-of-martin.png');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -458,7 +458,7 @@ form label #fname {
 }
 
 .image-of-tim {
-    background: url('../images/image-of-tim.webp');
+    background: url('../images/image-of-tim.png');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -475,7 +475,7 @@ form label #fname {
 }
 
 .image-of-john {
-    background: url('../images/image-of-john.webp');
+    background: url('../images/image-of-john.png');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
@@ -492,7 +492,7 @@ form label #fname {
 }
 
 .image-of-andy {
-    background: url('../images/image-of-andy.webp');
+    background: url('../images/image-of-andy.png');
     background-color: #8C776A;
     background-repeat: no-repeat;
     background-position: center center;
