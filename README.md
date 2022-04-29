@@ -43,12 +43,12 @@
 
     #### [Pixels](https://www.pexels.com/) : Pixels images have been used to show the interior of the shop and the staff portraits.
     
--  Home page images:
+    -  Home page images:
 
     1. [Book now image](https://www.pexels.com/photo/man-in-black-t-shirt-sitting-on-black-chair-3993133/)
     1. [Abount us sectionn image](https://www.pexels.com/photo/person-in-black-long-sleeve-shirt-holding-gold-and-silver-beaded-bracelet-3998389/)
 
-- Meet the team page images:
+    - Meet the team page images:
     
     1. [Andy image](https://www.pexels.com/photo/cheerful-ethnic-waiter-in-apron-standing-against-street-cafe-5920775/)
     1. [David image](https://www.pexels.com/photo/man-in-black-hat-and-white-dress-shirt-3998422/)
@@ -247,10 +247,10 @@ Google DevTools and Lighthouse has been used for testing and editing the project
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Ed-Whyatt/titan-barbers.git)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Ed-Whyatt/titan-barbers)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
+4. Under "Source", click the dropdown called "None" and select "Main Branch".
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://github.com/Ed-Whyatt/titan-barbers/deployments/activity_log?environment=github-pages.git) in the "GitHub Pages" section.
 
@@ -264,14 +264,14 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Ed-Whyatt/titan-barbers.git)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Ed-Whyatt/titan-barbers)
 2. Under the repository name, click "Clone or download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
-$ git clone https://github.com/Ed-Whyatt/titan-barbers.git
+$ git `clone https://github.com/Ed-Whyatt/titan-barbers.git`
 
 7. Press Enter. Your local clone will be created.
 
@@ -286,6 +286,10 @@ Unpacking objects: 100% (10/10), done.
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Ed-Whyatt/titan-barbers)
+
 ## Credits
 
 ###  Code
@@ -299,6 +303,21 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
    -   [W3 Schools](https://www.w3schools.com/): W3 Schools has been used with some elements in this project mainly the book now link.
 
    -   [Autoprefixer](https://autoprefixer.github.io/): Autoprefixer has been used with the images in css for Crapple/Apple/iOS fallback browsers.
+
+   -   [Pixels](https://www.pexels.com/) : Pixels images have been used to show the interior of the shop and the staff portraits.
+       -  Home page images:
+
+       1. [Book now image](https://www.pexels.com/photo/man-in-black-t-shirt-sitting-on-black-chair-3993133/)
+       1. [Abount us sectionn image](https://www.pexels.com/photo/person-in-black-long-sleeve-shirt-holding-gold-and-silver-beaded-bracelet-3998389/)
+
+       - Meet the team page images:
+    
+       1. [Andy image](https://www.pexels.com/photo/cheerful-ethnic-waiter-in-apron-standing-against-street-cafe-5920775/)
+       1. [David image](https://www.pexels.com/photo/man-in-black-hat-and-white-dress-shirt-3998422/)
+       1. [James image](https://www.pexels.com/photo/a-man-in-a-black-suit-and-a-silver-scissors-mid-air-5337959/)
+       1. [John image](https://www.pexels.com/photo/a-man-holding-on-the-armrest-of-a-barber-chair-8867160/)
+       1. [Martin image](https://www.pexels.com/photo/a-barber-with-tattoos-8552627/)
+       1. [Tim image](https://www.pexels.com/photo/man-people-woman-sitting-7697395/)
 
 ### Content
 
