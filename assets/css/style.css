@@ -182,7 +182,7 @@ header {
 /* About Us */
 
 .about-image {
-    height: 100vh;
+    height: 1000px;
     background: url('../images/abut-us.png');
     background-color: #8C776A;
     background-repeat: no-repeat;
@@ -191,7 +191,6 @@ header {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -199,6 +198,7 @@ header {
 .about-us {
     background-color: rgba(125, 137, 159, 0.6);
     color: #0f0e0e;
+    margin-top: 100px;
 }
 
 .about-us h2 {
