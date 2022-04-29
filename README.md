@@ -232,8 +232,16 @@ Google DevTools and Lighthouse has been used for testing and editing the project
 
 ### Further Testing
 
--   The website has been tested on Google Chrome, Internet Explorer, Microsoft Edge, Samsung internet and Firefox.
--   The website was viewed on such devices as Desktop, Laptop, iPhone 6/7/8 Glaxy note 10 and Samsung tablet 3.
+-   The website has been tested on such browsers as: 
+    -  Google Chrome [view](documentation/browser-screenshots/chrome.png)
+    -  Internet Explorer [view](documentation/browser-screenshots/internet-explorer.png)
+    -  Microsoft Edge [view](documentation/browser-screenshots/microsoft-edge.png)
+    -  Firefox [view](documentation/browser-screenshots/firefox.png)
+-   The website was viewed on such devices as: 
+     - Desktop [view](documentation/device-screenshots/desktop.png)
+     - Laptop [view](documentation/device-screenshots/laptop.png)
+     - Samsung Glaxy note 10 [view](documentation/device-screenshots/note-ten.jpg)
+     - Samsung tablet 3 [view](documentation/device-screenshots/samsung-three.jpg)
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   The website has been tested by friends and family members to review the site and documentation to point out any bugs and/ or user experience issues.
 
@@ -252,7 +260,7 @@ The project was deployed to GitHub Pages using the following steps...
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Main Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com/Ed-Whyatt/titan-barbers/deployments/activity_log?environment=github-pages.git) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://github.com/Ed-Whyatt/titan-barbers/deployments/activity_log?environment=github-pages) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
